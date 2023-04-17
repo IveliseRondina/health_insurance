@@ -79,11 +79,3 @@ function PredictAll(){
     Logger.log( row )
   };
 };
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
