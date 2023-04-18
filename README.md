@@ -260,9 +260,32 @@ By targeting only the customers most likely to purchase, the company can reduce 
 
 **<h2> 2.6 - Deployment </h2>**
 
-------------------------
-**<h2> 3. Conclusions </h2>**
+The final product is a spreadsheet document linked to the deployed machine learning model. This document provides a list of customers likely to purchase car insurance, based on the predictions made by the model.
+
+<img src='images/api.jpg'>
+
+&nbsp;
+
+To get the predictions, just nedd to input the customer data, click on "Health Insurance Prediction" - "Get Prediction". Than the sheet will connect with the deployed model and return the score, with the prediction, the customers tha should recieve the offer will be highlighted. 
+
+<img src='images/sheets.gif'>
+
+&nbsp;
 
 ------------------------
 
-**<h2> 4. Next Steps </h2>**
+**<h2> 3. Next Steps </h2>**
+* Collect nex data, to improve model performace.
+
+&nbsp;
+
+------------------------
+
+**<h2> 4. Technologies </h2>**
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
