@@ -118,6 +118,7 @@ Clients with vehicles with less than 1 year has the lower convertion rate. That 
 
 <img src="images/car_age.jpg"/>
 
+&nbsp;
 
 **<h2> 2.3 - Data Preparation </h2>**
 
@@ -146,6 +147,7 @@ After analyzing the results of feature importance and gaining insights from expl
 &nbsp;
 
 <img src="images/feature_selection.jpg"/>
+
 
 &nbsp;
 
